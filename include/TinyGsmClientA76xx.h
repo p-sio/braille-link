@@ -4,7 +4,9 @@
  * @license   MIT
  * @copyright Copyright (c) 2023  Shenzhen Xin Yuan Electronic Technology Co., Ltd
  * @date      2024-12-05
- *
+ * NOTE --    TTS section was modified by the following
+ *            Imperial, Kendra Angela S.
+ *            Sioco, Princess R.
  */
 
 #ifndef SRC_TINYGSMCLIENTA76XX_H_
