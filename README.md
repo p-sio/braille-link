@@ -1,2 +1,2 @@
 # braille-link
-Undergrad thesis about a braille-based texting device for the visually impaired
+SMS Communication Device for the Visually Impaired Using Braille-Based Keypad with Text-to-Speech Feedback
