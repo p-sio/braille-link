@@ -2,7 +2,7 @@
 <b>SMS Communication Device for the Visually Impaired Using Braille-Based Keypad with Text-to-Speech Feedback</b>
 
 To upload and run the .ino file:
-* Place all include files, template files, and the main code in a single folder.
+* Place all include files, templates files, and the main code in a single folder.
 * Open the folder in Arduino IDE and run the project.
 
 In the Library Manager, install the following libraries. Be sure to use the older versions as they tend to work best:
