@@ -1284,7 +1284,7 @@ void drawScreen() {
     u8g2.setCursor(0, 50);
     u8g2.print("[A] Space    [C] <");
     u8g2.setCursor(0, 60);
-    u8g2.print("[B] Mode   [D] Send");
+    u8g2.print("[B] Mode     [D] Send");
   } else if (mainMode == LEARNING_MODE) {
     u8g2.setCursor(0, 10);
     u8g2.print("LEARNING MODE");
